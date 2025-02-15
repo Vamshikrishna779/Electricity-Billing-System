@@ -37,7 +37,11 @@ git clone https://github.com/your-username/electricity-billing-system.git
 5. Print the bill and verify the total amount.  
 
 ### Screenshots  
-*(Add screenshots of the UI and bill print section here for better clarity.)*  
+![image](https://github.com/user-attachments/assets/835414d7-8060-4ff4-bfce-7e17e1dd5d10)
+![image](https://github.com/user-attachments/assets/63f7dcb0-791e-4ba2-811f-52fc40903709)
+![image](https://github.com/user-attachments/assets/0409a6b7-f336-4b42-bcee-ab2b22054c56)
+
+
 
 ### Future Enhancements  
 - Integrate **database connectivity** to store customer records  
